@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · ixzu-12</sub></p>
 <h1>Aarish khan</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Frontend or full-stack engineer. Like to work with data would love to work in data.Main interest are AI/ML</h2>
 <p>pursuing a tech degree ,intrested in ai/ml and data science</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
